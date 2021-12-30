@@ -1,0 +1,22 @@
+{
+  "name": "MyCocoapodLibraryTest1",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapodLibraryTest1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jai Ram Babu/MyCocoapodLibraryTest1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jai Ram Babu": "jbabu.promis@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Jai Ram Babu/MyCocoapodLibraryTest1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyCocoapodLibraryTest1/Classes/**/*"
+}
